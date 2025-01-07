@@ -14,7 +14,7 @@ Read our paper [here](./public/BC3997_Final_Report__Lam_Labasan.pdf)!
 5. [Notes](#notes)
 
 # Abstract
-This project evaluates the performance of BART and Pegasus large language models (LLMs) for summarizing text from Reddit microblogs and books, two domains with distinct challenges in text length, structure, and summarization needs. We compare five models—BART-large, BART-large-CNN, BART-Extractive, Pegasus-large, and Pegasus- CNN-DailyMail—on the Reddit_TIFU/long corpus and the BookSum corpus, using ROUGE and BERTScore metrics. Results show that BART models seem to fair better in both abstract and extractive summarization for both the Reddit and BookSum datasets when compared to Pegasus models. Our qualitative analysis of the generated summaries also shows that BART faired better in developing abstract summaries for longer texts compared to Pega- sus, which was a surprise.
+This project evaluates the performance of BART and Pegasus large language models (LLMs) for summarizing text from Reddit microblogs and books, two domains with distinct challenges in text length, structure, and summarization needs. We compare five models—BART-large, BART-large-CNN, BART-Extractive, Pegasus-large, and Pegasus- CNN-DailyMail—on the Reddit_TIFU/long corpus and the BookSum corpus, using ROUGE and BERTScore metrics. Results show that BART models seem to fair better in both abstract and extractive summarization for both the Reddit and BookSum datasets when compared to Pegasus models. Our qualitative analysis of the generated summaries also shows that BART faired better in developing abstract summaries for longer texts compared to Pegasus, which was a surprise.
 
 # Models & Datasets
 ## Models
@@ -41,4 +41,4 @@ This project evaluates the performance of BART and Pegasus large language models
 4. Click run. Your results for that model and dataset will appear in the terminal.
 
 # Reflection
-Through this project, I gained experience in using and testing pretrained models and developing an NLP experiement, as well as deepened my understanding in how different model architectures and fine-tuning impact summarization results. It took a lot of trial and error for me to setup and run the models, which helped me to solidify what I learned in class about tokenization and summarization. In the future, I hope to delve deeper into the training aspect of each model, and learn how to fine tune a model for my own purposes.
+Through this project, I gained experience in using and testing pre-trained models and developing an NLP experiment, as well as deepened my understanding in how different model architectures and fine-tuning impact summarization results. It took a lot of trial and error for me to setup and run the models, which helped me to solidify what I learned in class about tokenization and summarization. In the future, I hope to delve deeper into the training aspect of each model, and learn how to fine tune a model for my own purposes.
