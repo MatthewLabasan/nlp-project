@@ -30,7 +30,7 @@ This project evaluates the performance of BART and Pegasus large language models
 
 # Replicating Our Experiment
 ## Installation: 
-1. Clone this repository to your system. In the console, type in `git clone https://github.com/MatthewLabasan/nlp-project.git`
+1. Clone this repository to your system. In the terminal, type in `git clone https://github.com/MatthewLabasan/nlp-project.git`
 2. From the terminal, run `pip install -r requirements.txt`
 3. Alternatively, you can run this in Google Colab by downloading the file in `public/BC3997_Final_Project_Code.py` and import into Google Colab.
 
