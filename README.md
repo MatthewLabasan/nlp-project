@@ -5,13 +5,8 @@ Read our paper [here](./public/BC3997_Final_Report__Lam_Labasan.pdf)!
 # Table of Contents
 1. [Abstract](#abstract)
 2. [Models & Datasets](#models-&-datasets)
-    - [Models](#models)
-    - [SQL Mappings](#sql-mappings)
-    - [Explanation of Entities and Relations](#explanation-of-entities-and-relations)
-    - [Potential Interaction Flow](#potential-interaction-flow)
-3. [Getting Started](#getting-started)
+3. [Replicating Our Experiment](#replicating-our-experiment)
 4. [Reflection](#reflection)
-5. [Notes](#notes)
 
 # Abstract
 This project evaluates the performance of BART and Pegasus large language models (LLMs) for summarizing text from Reddit microblogs and books, two domains with distinct challenges in text length, structure, and summarization needs. We compare five models—BART-large, BART-large-CNN, BART-Extractive, Pegasus-large, and Pegasus- CNN-DailyMail—on the Reddit_TIFU/long corpus and the BookSum corpus, using ROUGE and BERTScore metrics. Results show that BART models seem to fair better in both abstract and extractive summarization for both the Reddit and BookSum datasets when compared to Pegasus models. Our qualitative analysis of the generated summaries also shows that BART faired better in developing abstract summaries for longer texts compared to Pegasus, which was a surprise.
