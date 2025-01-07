@@ -4,7 +4,7 @@ Read our paper [here](./public/BC3997_Final_Report__Lam_Labasan.pdf)!
 
 # Table of Contents
 1. [Abstract](#abstract)
-2. [Models & Datasets](#models-&-datasets)
+2. [Models & Datasets](#models--datasets)
 3. [Replicating Our Experiment](#replicating-our-experiment)
 4. [Reflection](#reflection)
 
