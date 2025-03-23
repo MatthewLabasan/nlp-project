@@ -24,6 +24,9 @@ This project evaluates the performance of BART and Pegasus large language models
 2. [ubaada/booksum-complete-cleaned](https://huggingface.co/datasets/ubaada/booksum-complete-cleaned)
 
 # Replicating Our Experiment
+## Prerequisites: 
+1. Python 3.11 or any version compatible with all modules in `requirements.txt`
+
 ## Installation: 
 1. Clone this repository to your system. In the terminal, type in `git clone https://github.com/MatthewLabasan/nlp-project.git`
 2. From the terminal, run `pip install -r requirements.txt`
